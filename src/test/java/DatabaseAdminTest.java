@@ -38,5 +38,5 @@ public class DatabaseAdminTest {
         databaseAdmin.payBonus();
         assertEquals(50.50, databaseAdmin.getSalary(), 0.01);
     }
-    
+
 }
